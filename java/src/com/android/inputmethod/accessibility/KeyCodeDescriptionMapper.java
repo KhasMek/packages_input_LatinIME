@@ -58,7 +58,7 @@ public final class KeyCodeDescriptionMapper {
 
     private void initInternal() {
         // Manual label substitutions for key labels with no string resource
-        mKeyLabelMap.put(":-)", R.string.spoken_description_smiley);
+        mKeyLabelMap.put(":)", R.string.spoken_description_smiley);
 
         // Special non-character codes defined in Keyboard
         mKeyCodeMap.put(Keyboard.CODE_SPACE, R.string.spoken_description_space);

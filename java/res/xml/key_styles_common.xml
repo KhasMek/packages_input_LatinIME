@@ -80,9 +80,9 @@
         >
             <key-style
                 latin:styleName="enterKeyStyle"
-                latin:keyLabel=":-)"
-                latin:keyOutputText=":-) "
-                latin:keyLabelFlags="hasPopupHint"
+                latin:keyLabel=":)"
+                latin:keyOutputText=":) "
+                latin:keyLabelFlags="hasPopupHint|preserveCase"
                 latin:moreKeys="!text/more_keys_for_smiley"
                 latin:backgroundType="functional" />
         </case>

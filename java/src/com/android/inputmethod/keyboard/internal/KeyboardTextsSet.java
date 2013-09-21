@@ -389,7 +389,7 @@ public final class KeyboardTextsSet {
         /* 126 */ ".com",
         // popular web domains for the locale - most popular, displayed on the keyboard
         /* 127 */ "!hasLabels!,.net,.org,.gov,.edu",
-        /* 128 */ "!fixedColumnOrder!5,!hasLabels!,=-O|=-O ,:-P|:-P ,;-)|;-) ,:-(|:-( ,:-)|:-) ,:-!|:-! ,:-$|:-$ ,B-)|B-) ,:O|:O ,:-*|:-* ,:-D|:-D ,:\'(|:\'( ,:-\\\\|:-\\\\ ,O:-)|O:-) ,:-[|:-[ ",
+        /* 128 */ "!fixedColumnOrder!5,!hasLabels!,=O|=O ,:P|:P ,;P|;P ,;)|;) ,:(|:( ,:)|:) ,:!|:! ,:$|:$ ,B)|B) ,:O|:O ,:*|:* ,:D|:D ,;D|;D ,:\'(|:\'( ,:\\\\|:\\\\ ,O:)|O:) ,>:(|>:( ,xD|xD ,xP|xP ,\\\\o/|\\\\o/ ,>_<|>_< ,(=^.^=)|(=^.^=) ,o_O|o_O ,<3|<3 ,<@:)|<@:) ,;_;|;_; ,",
     };
 
     /* Language af: Afrikaans */
